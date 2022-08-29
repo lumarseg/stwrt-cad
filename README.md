@@ -16,13 +16,13 @@ This project is releated to build a Stewart Platform. In this repository, you wi
 
 This repository is part of other repositories related to the project.
 
-* Model Based System Engineering: <https://github.com/ldmaroto/stwrt-mbse>
+* Model Based System Engineering: <https://github.com/lumarseg/stwrt-mbse>
 
-* Arduino sketch: <https://github.com/ldmaroto/stwrt-sketch>
+* Arduino sketch: <https://github.com/lumarseg/stwrt-sketch>
 
-* Documents and support: <https://github.com/ldmaroto/stwrt-docs>
+* Documents and support: <https://github.com/lumarseg/stwrt-docs>
 
-* Simulation and Digital Twin: <https://github.com/ldmaroto/stwrt-dt>
+* Simulation and Digital Twin: <https://github.com/lumarseg/stwrt-dt>
 
 ## License
 
