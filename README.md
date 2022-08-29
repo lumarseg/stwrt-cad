@@ -4,9 +4,9 @@ Stewart Platform Project - Computer-Aided Design | v0.0.2-NIGHTLY
 
 Author : Luis Diego Maroto Segura
 
-Github : <https://github.com/ldmaroto/stwrt-mbse>
+Github : <https://github.com/lumarseg/stwrt-mbse>
 
-LinkedIn: <https://www.linkedin.com/in/ldmaroto>
+LinkedIn: <https://www.linkedin.com/in/lumarseg>
 
 ## Scope
 
